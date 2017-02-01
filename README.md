@@ -1,3 +1,3 @@
 # WhitstableDEM
 
-*Repository for Whitstable code*
+*Repository for WhitstableDEM*
